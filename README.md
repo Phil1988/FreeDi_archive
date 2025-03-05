@@ -5,7 +5,7 @@ This is an archive for previous FreeDi versions and files
 
 ## 📄 Licence
 
-Everything in this repository is subject to the same license as the original data and information at FreeDi.
+Everything in this repository is subject to the same license as the original data and information at FreeDi.<br>
 See the LICENCE file.
 
 ---
